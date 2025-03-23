@@ -1,5 +1,11 @@
 # AocVisualized
 
+Visualize some Advent of Code solutions with Phoenix LiveView.
+
+I mostly take solutions from [sevenseacat's repo](https://github.com/sevenseacat/advent_of_code) and adapt them to render some visualisation in a LiveView.
+
+Days I have visualised are accessible via the normal AoC routing: `/$year/day$dayNumber`, e.g. `http://localhost:4000/2015/day3`.
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
